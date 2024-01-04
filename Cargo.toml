@@ -40,6 +40,7 @@ serde_yaml = "0.9.27"
 slug = "0.1.5"
 snafu = "0.7.5"
 unicode-normalization = "0.1.22"
+filetime = "0.2.23"
 
 [dev-dependencies]
 pretty_assertions = "1.4.0"
